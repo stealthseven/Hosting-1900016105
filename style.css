@@ -1,0 +1,31 @@
+.landing-page {
+}
+
+.kolom-lp {
+    background-color: rgb(14, 93, 158);
+    text-align: center;
+}
+
+.row-lp {
+    display: flex;
+    box-sizing: border-box;
+}
+
+.judul-content, .teks-content {
+    padding: 20px;
+}
+
+
+.shortHand {
+    height: 100px;
+    width: 1100px;
+    border: 2px blue solid;
+    margin: auto;
+    
+}
+.bungkus {
+    height: auto;
+    width: 1100px;
+    border: 2px blueviolet solid;
+    margin: 0px auto 0px;
+}
